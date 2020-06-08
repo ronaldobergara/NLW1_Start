@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 #page-home{
         height: 100vh;
     background: url('../assets/home-background.svg') no-repeat;
-    background-position: 35vw 10vw;
+    background-position: 35vw bottom;
 }
 
 #page-home .content{
@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 
     #page-home header a{
         position: absolute;
-        bottom: 48px;
+        bottom: 4px;
 
         left: 50%;
         transform: translateX(-50%);
